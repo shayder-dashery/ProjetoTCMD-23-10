@@ -21,3 +21,7 @@ $ git checkout -b nome para a branch
 
 8- Trocar de branch
 $ git checkout nome da branch
+
+9- 
+
+10-
