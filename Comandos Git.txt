@@ -1,0 +1,11 @@
+1- iniciar repositório
+$ git init
+
+2- Verificar Status do repositório
+$ git status 
+
+3- Tornar os arquivos "Trackeados" (todos dentro da pasta)
+$ git add .
+
+4- Para Fazer um commit (ponto de controle do que foi feito)
+$ git commit -m "mensagem explicando o que foi feito"
