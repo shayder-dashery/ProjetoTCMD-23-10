@@ -19,4 +19,5 @@ $ git branch -a
 7- Criar nova branch e transicionar para ela diretamente
 $ git checkout -b nome para a branch
 
-8- 
+8- Trocar de branch
+$ git checkout nome da branch
