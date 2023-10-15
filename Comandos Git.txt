@@ -1,11 +1,22 @@
 1- iniciar repositório
 $ git init
 
-2- Verificar Status do repositório
+2- Verificar status do repositório
 $ git status 
 
 3- Tornar os arquivos "Trackeados" (todos dentro da pasta)
 $ git add .
 
-4- Para Fazer um commit (ponto de controle do que foi feito)
+4- Para fazer um commit (ponto de controle do que foi feito)
 $ git commit -m "mensagem explicando o que foi feito"
+
+5- Para verificar todos os "Commits" que foram feitos
+$ git log
+
+6- Comando para ver as branch (estágios de desenvolvimento do projeto)
+$ git branch -a
+
+7- Criar nova branch e transicionar para ela diretamente
+$ git checkout -b nome para a branch
+
+8- 
