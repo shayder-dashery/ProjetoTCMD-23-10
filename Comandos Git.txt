@@ -25,3 +25,9 @@ $ git checkout nome da branch
 9- 
 
 10-
+
+11-
+
+12-
+
+13-
